@@ -92,7 +92,7 @@ fun FirstButton(){
         onClick = { /*TODO*/ },
         colors = ButtonDefaults.buttonColors(containerColor = Color.Red),    //Change background color
 //        shape = RectangleShape,  //Change shape
-//        shape = RoundedCornerShape(30.dp),   //Change coner shape
+//        shape = RoundedCornerShape(30.dp),   //Change corner shape
         shape = CutCornerShape(30.dp)   //Cut corner shape
 
     ) {

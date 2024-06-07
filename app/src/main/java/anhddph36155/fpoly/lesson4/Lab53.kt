@@ -78,8 +78,8 @@ fun CategoryApp() {
                 },
                 colors = AssistChipDefaults.assistChipColors(containerColor
                 = Color.DarkGray),
-                border = AssistChipDefaults.assistChipBorder(borderColor =
-                Color.Black)
+//                border = AssistChipDefaults.assistChipBorder(borderColor =
+//                Color.Black)
             )
         }
     }
